@@ -13,6 +13,6 @@ Author: Zhiming Xue
 
 ## Features(V1.1)
 
-* Add the cache preheating function,  the flash sale activities and product information are added to the Redis database in advance to improve the page access speed
-* Use thymeleaf to make static pages to improve page access speed
+* Adding the cache preheating function,  the flash sale activities and product information are added to the Redis database in advance to improve the page access speed
+* Using thymeleaf to make static pages to improve page access speed
 
